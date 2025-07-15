@@ -36,7 +36,7 @@
 
 
 ### 使用方式
-```markdown
+
 啟動程式後，選擇「滑鼠模式」或「鍵盤模式」。
 如果選擇鍵盤模式，請輸入鍵盤符號（例如 a、b、enter）。
 按下鍵盤上的「`」按鈕開始執行。
@@ -48,12 +48,9 @@
 - 重複性工作中需要自動化操作。
 - 測試環境中需要模擬滑鼠或鍵盤輸入。
 
-- **Python 文件**：  
-  [Python 官方文檔](https://www.python.org/doc/)
+- **Python 文件**：   [Python 官方文檔](https://www.python.org/doc/)
   
-- **PyAutoGUI 文檔**：  
-  [PyAutoGUI 使用指南](https://pyautogui.readthedocs.io/en/latest/)
+- **PyAutoGUI 文檔**：   [PyAutoGUI 使用指南](https://pyautogui.readthedocs.io/en/latest/)
 
-- **Keyboard 文檔**：  
-  [Keyboard 使用指南](https://github.com/boppreh/keyboard)
+- **Keyboard 文檔**：   [Keyboard 使用指南](https://github.com/boppreh/keyboard)
 
