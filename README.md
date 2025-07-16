@@ -1,11 +1,11 @@
 # AutoClicker Tool
 
-![version](https://img.shields.io/badge/version-1.0.0-blue)
-![license](https://img.shields.io/badge/license-MIT-green)
-![platform](https://img.shields.io/badge/platform-Windows-red)
-![GitHub issues](https://img.shields.io/github/issues/your-repo/forward-tek_auto_clicker_tool)
-![GitHub stars](https://img.shields.io/github/stars/your-repo/forward-tek_auto_clicker_tool)
-![GitHub forks](https://img.shields.io/github/forks/your-repo/forward-tek_auto_clicker_tool)
+![version](https://img.shields.io/badge/version-1.0.0-green)
+![license](https://img.shields.io/badge/license-MIT%20%2B%20-blue)
+![python](https://img.shields.io/badge/Python-3.7+-orange)
+![pyautogui](https://img.shields.io/badge/PyAutoGUI-0.9.53-lightgrey)
+![keyboard](https://img.shields.io/badge/Keyboard-0.13.5-yellow)
+![platform](https://img.shields.io/badge/Platform-Windows-red)
 ![icon](asset/icon.png)
 
 ---
