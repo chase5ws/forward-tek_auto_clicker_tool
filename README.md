@@ -3,9 +3,9 @@
 ![version](https://img.shields.io/badge/version-1.0.0-blue)
 ![license](https://img.shields.io/badge/license-MIT-green)
 ![platform](https://img.shields.io/badge/platform-Windows-red)
-![GitHub issues](https://img.shields.io/github/issues/your-repo/autoclicker-tool)
-![GitHub stars](https://img.shields.io/github/stars/your-repo/autoclicker-tool)
-![GitHub forks](https://img.shields.io/github/forks/your-repo/autoclicker-tool)
+![GitHub issues](https://img.shields.io/github/issues/your-repo/forward-tek_auto_clicker_tool)
+![GitHub stars](https://img.shields.io/github/stars/your-repo/forward-tek_auto_clicker_tool)
+![GitHub forks](https://img.shields.io/github/forks/your-repo/forward-tek_auto_clicker_tool)
 ![icon](asset/icon.png)
 
 ---
